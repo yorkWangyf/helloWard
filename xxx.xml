@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="GB2312"?>
+<DAYCHECK>
+	<BANK_CODE>09</BANK_CODE>
+	<INSUID>kingv</INSUID>
+	<DATE>20160816</DATE>
+	
+	<DAYCHECK_TOTS>
+		<DAYCHECK_TOT>
+			<ZONENO>101</ZONENO>
+			<ACC_CODE>12345374574</ACC_CODE>
+			<FUNCTIONFLAG></FUNCTIONFLAG>
+			<TOT_PIECE>2</TOT_PIECE>
+			<TOT_PREMIUM>100</TOT_PREMIUM>
+		</DAYCHECK_TOT>
+	</DAYCHECK_TOTS>
+	
+	<DAYCHECK_DETAILS>
+		<!--日结对账数据明细 -->
+		<DAYCHECK_DETAIL>
+			<!--地区号-->
+			<ZONENO>00200</ZONENO>		
+			<!--网点号-->
+			<BRNO>00010</BRNO> 	
+			<TRANSRNO>765475454</TRANSRNO>
+			<!--保险合同号或投保单号 -->
+			<INSURNO>tre9uf049593043i</INSURNO>
+			<!--投保人姓名 -->
+			<TBR_NAME>张三</TBR_NAME>
+			<OREVDATE>20160816</OREVDATE>
+			<!--保费 -->
+			<PREMIUM>50</PREMIUM> 		 
+		</DAYCHECK_DETAIL>
+		<DAYCHECK_DETAIL>
+			<!--地区号-->
+			<ZONENO>00200</ZONENO>		
+			<!--网点号-->
+			<BRNO>00010</BRNO> 	
+			<TRANSRNO>787867988</TRANSRNO>
+			<!--保险合同号或投保单号 -->
+			<INSURNO>ghdg6ff954453560</INSURNO>
+			<!--投保人姓名 -->
+			<TBR_NAME>李四</TBR_NAME>
+			<OREVDATE>20160816</OREVDATE>
+			<!--保费 -->
+			<PREMIUM>50</PREMIUM> 
+		</DAYCHECK_DETAIL>
+	</DAYCHECK_DETAILS>
+</DAYCHECK>
